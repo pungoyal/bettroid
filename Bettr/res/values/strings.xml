@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello">Hello World, BettrActivity!</string>
-    <string name="app_name">Bettr</string>
+	<string name="app_name">Bettr</string>
+	<string name="main_title">Bettr</string>
+	<string name="matches_label">See Matches</string>
+	<string name="about_label">About Bettr</string>
+	<string name="exit_label">Exit</string>
+
+	<string name="matches_title">All Matches</string>
+	<string name="about_title">About Bettr</string>
+	<string name="about_text">Yeah, it is for real!</string>
 </resources>
